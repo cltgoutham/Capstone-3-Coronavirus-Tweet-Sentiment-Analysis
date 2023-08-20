@@ -3,7 +3,7 @@ Classification ML project to predict the Sentiment of the Tweets using NPL metho
 
 We have been provided with Coronavirus Tweet Sentiment Analysis dataset for the year 2020. This dataset contains the tweets made by people during the covid-19 pandamic. while analysing the data we have to create a Mechine Learning model to predict the tweet sentiment.
 
-(image)
+![How-Can-News-API-Supercharge-Your-Sentiment-Analysis-1](https://github.com/cltgoutham/Capstone-3-Coronavirus-Tweet-Sentiment-Analysis/assets/124442638/0755129e-b0c2-4bf6-bc40-d102e2d4e73b)
 
 **Introduction**
 
@@ -27,7 +27,12 @@ The dataset contains 41,157 rows and 6 columns, columns includes UserName, Scree
 * Analysing the data through different visualization techniques.
 * Univariate and multivariate analysis were made.
 
-(image)
+![newplot (1)](https://github.com/cltgoutham/Capstone-3-Coronavirus-Tweet-Sentiment-Analysis/assets/124442638/be58348d-680b-47f9-8bef-7750e0fb1503)
+![newplot](https://github.com/cltgoutham/Capstone-3-Coronavirus-Tweet-Sentiment-Analysis/assets/124442638/beeb547b-90d0-4b8e-aacf-0e9d89f35fbc)
+
+Word cloud
+
+![download](https://github.com/cltgoutham/Capstone-3-Coronavirus-Tweet-Sentiment-Analysis/assets/124442638/b7c4f496-6fb9-48d9-8071-562448f0226f)
 
 ## 3.**Data Preprocessing**
 * Text Preprocessing - Removed Punctuations, Numbers, Urls
@@ -41,9 +46,14 @@ In this classification project we have used 6 Machine Learning Models.
 
 LogisticRegression, SupportVectorMachine, DecisionTree, RandomForest, AdaBoost, GradientBoosting Classifier.
 
+![Screenshot (6)](https://github.com/cltgoutham/Capstone-3-Coronavirus-Tweet-Sentiment-Analysis/assets/124442638/5c8113b4-ad7f-4fdd-8318-a31071d707c9)
+
 ## 5.**Model Evaluation**
 For comparing the model based on their performance we have used Accuracy score, Precision, Recall and F1 score.
 
 ## 6.**Conclusion**
 
  Linear regression model with hyperparameter tuning gave the best performance among all the models.
+
+
+
